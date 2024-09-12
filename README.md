@@ -22,7 +22,7 @@ Before running the application, make sure you have the following:
 
 ## Installation
 ### Clone the Repository:
-git clone https://github.com/ZivElbaz/android-video-sharing-platform
+git clone https://github.com/ofekbaribi/ViewTube-Android
 ### Open the Project:
 Open Android Studio.
 Import the project you just cloned.
